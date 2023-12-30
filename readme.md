@@ -1,9 +1,9 @@
-## LearnEd (E-learning Website)
+## (E-learning Website)
 An educational website for students and traders 😊😊😊  
 
 ![](pcView.png)
 
-Try this out::  
+Try this out::  https://optionxpert.netlify.app/
 
 Our Educational Website would provide all the education related stuffs:  
 Notes, Sample Papers, Online Video Lectures and courses to crack competitive  
